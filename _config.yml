@@ -20,7 +20,7 @@ timezone: Asia/Kolkata
 
 title: QIndia # the main title
 
-tagline: Quantum Beginner's Initiative # it will display as the sub-title
+tagline: Quantum Computing Beginner's Initiative # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog and tutorial series focused on helping Quantum beginners find their footing.
