@@ -20,10 +20,14 @@ For detailed instructions, please refer the [contribution guidelines](./CONTRIBU
 
 1. [Chirpy](https://github.com/cotes2020/chirpy) theme
 
-## Content Authors
+## Content Author
 
 [Abdullah Kazi](https://github.com/AbdullahKazi500)
 
-## Author
+## Content Editor / Proof Reading / Technical Review 
+
+[Rajiv Krishna Kumar](https://github.com/rajkk1)
+
+## Author / Lead Developer / Maintainer
 
 [Chaitanya Mittal](https://github.com/chtnnh), for https://QIndia.org
