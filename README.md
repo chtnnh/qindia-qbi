@@ -26,7 +26,7 @@ For detailed instructions, please refer the [contribution guidelines](./CONTRIBU
 
 ## Content Editor / Proof Reading / Technical Review 
 
-[Rajiv Krishna Kumar](https://github.com/rajkk1)
+[Rajiv KrishnaKumar](https://github.com/rajkk1)
 
 ## Author / Lead Developer / Maintainer
 
