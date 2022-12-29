@@ -1,5 +1,5 @@
 ---
-title: The Need for Quantum Computing
+title: Introduction to Quantum Computing
 date: 2022-12-14 20:46:53
 categories: [section-1, introduction]
 tags: [beginner-friendly, start-here]
