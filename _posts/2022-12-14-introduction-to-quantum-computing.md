@@ -41,11 +41,17 @@ On a more constructive note, director of engineering at Google, Hartmut Neven, a
 
 # How we can develop quantum awareness ?
 
-TODO
+By Introducing People to Quantum Computing
+
+Sharing News and Articles about Research in Quantum computing 
+
+By sharing information about Quantum Hackathons & getting involved in Quantum Hackathons 
+
+Create Initiatives to educate people about Quantum
+
+Creating podcasts or videos to promote Quantum
 
 # How we can contribute to Quantum ecosystem ?
-
-By
 
 Creating a quantum community
 
