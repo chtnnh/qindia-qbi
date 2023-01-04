@@ -20,7 +20,7 @@ For detailed instructions, please refer the [contribution guidelines](./CONTRIBU
 
 1. [Chirpy](https://github.com/cotes2020/chirpy) theme
 
-## Content Author
+## Content Author / Maintainer 
 
 [Abdullah Kazi](https://github.com/AbdullahKazi500)
 
