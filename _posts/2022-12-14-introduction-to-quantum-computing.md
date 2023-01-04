@@ -41,9 +41,12 @@ This was proved by [Peter Shor](https://en.wikipedia.org/wiki/Peter_Shor) in 199
 Actually real-life applications of these are still unclear, and it is possible (many would argue
 probable) that quadratic speedups (including the example you gave) wll actually ever lead to
 quantum advantage and will have very little impact
-[google](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103) - paper from the
+
+[Google](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103) - paper from the
 team
+
 [Microsoft](https://arxiv.org/abs/2211.07629) - paper from the  team
+
 The only real examples we know of so far that are both better complexity-wise and will have a
 quantum advantage for real world use cases is [Shor’s algorithm](https://www.science.org/doi/10.1126/science.abn7293), and arguably machine learning
 (given a special set of circumstances 
