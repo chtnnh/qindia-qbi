@@ -39,13 +39,23 @@ This was proved by [Peter Shor](https://en.wikipedia.org/wiki/Peter_Shor) in 199
 
 On a more constructive note, director of engineering at Google, Hartmut Neven, also noted that quantum computers could help build better climate models that could give us more insight into how humans are influencing the environment<sup>[1]</sup>. Although Quantum Computing is in it’s initial development we can predict some amazing new developments.
 
-# How we can bring quantum awareness
+# How we can develop quantum awareness ?
 
 TODO
 
-# How we can contribute to Quantum ecosystem
+# How we can contribute to Quantum ecosystem ?
 
-TODO
+By
+
+Creating a quantum community
+
+Developing global awareness about Quantum computing
+
+Educating and creating intiatives , Methods to Teach Quantum Computing
+
+By Bridging the Talent Gap and Creating more job Opportunities' 
+
+Promoting Startups on Quantum Technology
 
 # Conclusion
 
