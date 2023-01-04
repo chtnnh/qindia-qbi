@@ -41,12 +41,12 @@ This was proved by [Peter Shor](https://en.wikipedia.org/wiki/Peter_Shor) in 199
 Actually real-life applications of these are still unclear, and it is possible (many would argue
 probable) that quadratic speedups (including the example you gave) wll actually ever lead to
 quantum advantage and will have very little impact
-(https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103) - paper from the
-[google] team
-(https://arxiv.org/abs/2211.07629) - paper from the [Microsoft] team
+[google](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010103) - paper from the
+team
+[Microsoft](https://arxiv.org/abs/2211.07629) - paper from the  team
 The only real examples we know of so far that are both better complexity-wise and will have a
-quantum advantage for real world use cases is [Shor’s algorithm], and arguably machine learning
-(given a special set of circumstances (https://www.science.org/doi/10.1126/science.abn7293)
+quantum advantage for real world use cases is [Shor’s algorithm](https://www.science.org/doi/10.1126/science.abn7293), and arguably machine learning
+(given a special set of circumstances 
 
 On a more constructive note, director of engineering at Google, Hartmut Neven, also noted that quantum computers could help build better climate models that could give us more insight into how humans are influencing the environment<sup>[1]</sup>. Although Quantum Computing is in it’s initial development we can predict some amazing new developments.
 
